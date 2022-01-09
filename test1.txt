@@ -1,0 +1,10 @@
+ Volume in drive C is win10
+ Volume Serial Number is D6D5-E15B
+
+ Directory of C:\Users\91876\Desktop\myproject
+
+01/09/2022  05:00 PM    <DIR>          .
+01/09/2022  05:00 PM    <DIR>          ..
+01/09/2022  05:00 PM                 0 test1.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  402,118,299,648 bytes free
